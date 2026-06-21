@@ -26,6 +26,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [Day9](Day9) | Practice programs |
 | [day10](day10) | STL `vector` and `pair` |
 | [day13](day13) | STL containers: `vector`, `list`, `queue`, `stack`, `set`, `priority_queue`, `deque` |
+| [day14](day14) | STL associative containers: `set`, `multiset`, `map`, `multimap`, `unordered_set`, `unordered_map`, and sorting |
 
 More folders will be added as the 45-day training progresses.
 
