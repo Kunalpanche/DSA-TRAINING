@@ -28,6 +28,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day13](day13) | STL containers: `vector`, `list`, `queue`, `stack`, `set`, `priority_queue`, `deque` |
 | [day14](day14) | STL associative containers: `set`, `multiset`, `map`, `multimap`, `unordered_set`, `unordered_map`, and sorting |
 | [day15](day15) | Hashing basics, frequency arrays, array size limits, and time complexity estimation |
+| [day16](day16) | Integer and character hashing using arrays, ASCII indexing, `map`, and `unordered_map` |
 
 More folders will be added as the 45-day training progresses.
 
