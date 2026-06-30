@@ -31,7 +31,8 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day16](day16) | Integer and character hashing using arrays, ASCII indexing, `map`, and `unordered_map` |
 | [day17](day17) | Searching algorithms: linear search and binary search on arrays/vectors |
 | [day18](day18) | Sorting algorithms: bubble sort and selection sort |
-| [day19](day19) | Recursion basics and sorting algorithms: insertion sort and merge sort |
+| [day19](day19) | Insertion sort and recursion revision to understand merge sort recursion |
+| [day20](day20) | Divide-and-conquer sorting algorithms: merge sort and quick sort |
 
 More folders will be added as the 45-day training progresses.
 
