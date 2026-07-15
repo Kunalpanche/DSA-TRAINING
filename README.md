@@ -33,6 +33,9 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day18](day18) | Sorting algorithms: bubble sort and selection sort |
 | [day19](day19) | Insertion sort and recursion revision to understand merge sort recursion |
 | [day20](day20) | Divide-and-conquer sorting algorithms: merge sort and quick sort |
+| Day21 | Topic explanation and concept discussion only; no code added |
+| Day22 | Topic explanation and revision session only; no code added |
+| [day23](day23) | Array practice: largest, second largest, smallest, and second smallest elements |
 
 More folders will be added as the 45-day training progresses.
 
