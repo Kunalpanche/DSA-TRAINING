@@ -37,6 +37,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | Day22 | Topic explanation and revision session only; no code added |
 | [day23](day23) | Array practice: largest, second largest, smallest, and second smallest elements |
 | [day24](day24) | Array practice: check if an array is sorted and remove duplicates using `set` |
+| [day25](day25) | Array practice: optimal duplicate removal from a sorted array and left rotation by one |
 
 More folders will be added as the 45-day training progresses.
 
