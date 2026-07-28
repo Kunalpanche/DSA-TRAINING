@@ -40,6 +40,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day25](day25) | Array practice: optimal duplicate removal from a sorted array and left rotation by one |
 | [day26](day26) | Array rotation by K places: brute-force approach, reversal approach, and right rotation |
 | [day27](day27) | Array practice: move zeroes to the end using brute-force and optimal approaches |
+| [day28](day28) | Array practice: subarray generation and Two Sum using brute-force and hash map approaches |
 
 More folders will be added as the 45-day training progresses.
 
