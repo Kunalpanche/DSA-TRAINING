@@ -41,6 +41,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day26](day26) | Array rotation by K places: brute-force approach, reversal approach, and right rotation |
 | [day27](day27) | Array practice: move zeroes to the end using brute-force and optimal approaches |
 | [day28](day28) | Array practice: subarray generation and Two Sum using brute-force and hash map approaches |
+| [day29](day29) | Maximum subarray sum using brute-force, better, and Kadane's algorithm approaches |
 
 More folders will be added as the 45-day training progresses.
 
