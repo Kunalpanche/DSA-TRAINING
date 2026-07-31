@@ -42,6 +42,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day27](day27) | Array practice: move zeroes to the end using brute-force and optimal approaches |
 | [day28](day28) | Array practice: subarray generation and Two Sum using brute-force and hash map approaches |
 | [day29](day29) | Maximum subarray sum using brute-force, better, and Kadane's algorithm approaches |
+| [day30](day30) | Sort Colors problem using counting and Dutch National Flag approaches |
 
 More folders will be added as the 45-day training progresses.
 
