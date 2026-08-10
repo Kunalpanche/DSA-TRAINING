@@ -45,6 +45,7 @@ This is a 45-day training program, with 4 hours of class each day. I will docume
 | [day30](day30) | Sort Colors problem using counting and Dutch National Flag approaches |
 | [day31](day31) | Majority Element problem using brute-force, hash map, and Moore's Voting Algorithm approaches |
 | [day32](day32) | Binary search on sorted arrays and search insert position |
+| [day33](day33) | Find first and last position of an element in a sorted array using brute-force and binary search |
 
 More folders will be added as the 45-day training progresses.
 
